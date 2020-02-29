@@ -1,3 +1,5 @@
+const { add, subtract, multiply, divide } = require('./calculator');
+
 /**
  * @type {String}
  * @description Student Name
@@ -81,3 +83,9 @@ class Person {
  * See {@link Person}
  */
 const person01 = new Person({ name: 'Rehan Sattar', age: 21 });
+
+console.log(person01.greet());
+
+/** module usage */
+
+console.log(add(20, 23));
