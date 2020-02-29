@@ -1,4 +1,12 @@
 const { add, subtract, multiply, divide } = require('./calculator');
+// app base description.
+
+/**
+ *
+ * @file index.js is the root file for this project.
+ * @author Rehan Sattar
+ * @see <a href="https://github.com/rehan-sattar">rehan-sattar</a>
+ */
 
 /**
  * @type {String}

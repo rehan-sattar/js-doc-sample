@@ -1,5 +1,5 @@
 /**
- * Calculator module - See {@tutorial calculator-tutorial}
+ * Calculator module
  * @module calculator
  */
 
