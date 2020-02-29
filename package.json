@@ -1,0 +1,22 @@
+{
+  "name": "js-doc-sample",
+  "version": "1.0.0",
+  "description": "A simple example of js doc to write documentations",
+  "main": "index.js",
+  "scripts": {
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rehan-sattar/js-doc-sample.git"
+  },
+  "author": "Rehan Sattar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rehan-sattar/js-doc-sample/issues"
+  },
+  "homepage": "https://github.com/rehan-sattar/js-doc-sample#readme",
+  "devDependencies": {
+    "jsdoc": "^3.6.3"
+  }
+}
